@@ -1,0 +1,27 @@
+body{
+
+ padding: 0;
+ margin: 0;
+ font-family: "tahoma";
+
+}
+.tabs-cover{
+    width: 650px;
+    margin: 0px auto;
+}
+.tab-btn{
+    display: inline-block;
+    padding: 18px 10px;
+    color: rgba(216, 216, 226, 0.801);
+    background: rgba(133, 14, 14, 0.973);
+    cursor: pointer;
+}
+.tab{
+    height: 300px;
+    line-height: 300px;
+    text-align: center;
+    background: darkblue;
+    font-size: 40px;
+    color: rgb(192, 109, 8);
+    
+}
